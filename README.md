@@ -1,9 +1,9 @@
-📊 Brazilian E-Commerce Growth & Logistics Analysis
+<img width="1870" height="883" alt="image" src="https://github.com/user-attachments/assets/8f328dd1-3e70-4edc-be5f-c5b0c1e4ba4a" />📊 Brazilian E-Commerce Growth & Logistics Analysis
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Project Objective
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This project analyzes 100,000+ orders from the Olist e-commerce platform (2016-2018) to identify revenue drivers and logistics inefficiencies. The goal was to provide actionable growth recommendations regarding customer retention and delivery performance.
+This project analyzes 100,000+ orders from the Olist e-commerce platform (2016-2018) to identify revenue drivers and logistics inefficiencies. The goal was to provide actionable growth recommendations regarding repeat purchase rate and delivery performance.
 
 🛠️ Tech Stack
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -25,9 +25,9 @@ Top Category: Health & Beauty is the dominant revenue generator, followed by Wat
 
 Insight: Marketing budget should be reallocated from low-performing categories (like "Security & Services") into these "winners."
 
-3. The Retention Gap -
+3. The Repeat Purchase Rate -
    
-The Metric: Found a 3.12% customer retention rate.
+The Metric: Found a 3.12% Repeat Purchase Rate.
 
 Analysis: Despite 100% of states beating delivery deadlines, customers are not returning for second purchases. This indicates a need for post-purchase loyalty programs rather than faster shipping.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,13 +36,13 @@ Analysis: Despite 100% of states beating delivery deadlines, customers are not r
 ![Customer Count in Cities](top_cities.png)
 ![Highest Revenue Product Category](highest_product_category.png)
 ![Delivery Gaps](delivery_gaps.png)
-![Customer Retention](retention_pie.png)
+![Repeat Purchase Rate](Repeat_Purchase_Rate_pie.png)
 
 💡 Strategic Recommendations
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Conversion: Update "Estimated Delivery Dates" to reflect actual performance, increasing checkout conversion rates.
 
-Retention: Trigger automated loyalty discounts the moment an "early delivery" is detected to capture positive customer sentiment.
+Repeat Purchase Challenge: Identified a 3.12% Repeat Purchase Rate, highlighting a major opportunity for loyalty marketing.
 
 Expansion: Target digital ads in Northern states where logistics speed is already a competitive advantage.
 
