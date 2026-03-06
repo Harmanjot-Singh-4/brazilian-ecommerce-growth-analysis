@@ -1,4 +1,4 @@
-<img width="1870" height="883" alt="image" src="https://github.com/user-attachments/assets/8f328dd1-3e70-4edc-be5f-c5b0c1e4ba4a" />📊 Brazilian E-Commerce Growth & Logistics Analysis
+📊 Brazilian E-Commerce Growth & Logistics Analysis
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Project Objective
